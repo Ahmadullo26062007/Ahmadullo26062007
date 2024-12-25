@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There👋.+I'm+Jack+😎;" />
 </h1>
 
-## **`Full Stack Developer`** who is passionate about solving real-life problems through technology. I create & contribute to startups and innovative solutions with the goal of making life better for everyone. I enjoy turning complex challenges into impactful products that create positive change.
+## **`Full Stack Developer`** I'm a dedicated web developer focused on creating efficient and user-friendly solutions. Passionate about solving complex problems and delivering high-quality work through hands-on practice and continuous learning. Strives to build applications that prioritize simplicity and usability.
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
