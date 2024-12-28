@@ -23,4 +23,8 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Ahmadullo26062007/Ahmadullo26062007/output/github-contribution-grid-snake.svg" />
+</div>
